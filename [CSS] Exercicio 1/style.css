@@ -1,0 +1,18 @@
+body {
+    background: url(imgs/onepiece.jpg);
+    background-size: cover;
+}
+
+
+#principal {
+    background-color: rgb(192, 192, 192, 0.8);
+    width: 900px;
+    margin: auto;
+    border: 6px ridge yellow;
+    padding: 9px;
+}
+
+#principal h1 {
+    text-align: center;
+}
+
